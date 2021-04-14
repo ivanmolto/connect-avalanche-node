@@ -1,0 +1,24 @@
+{
+  "name": "connect-avalanche-node",
+  "version": "1.0.0",
+  "description": "Connect to an Avalanche node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanmolto/connect-avalanche-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanmolto/connect-avalanche-node/issues"
+  },
+  "homepage": "https://github.com/ivanmolto/connect-avalanche-node#readme",
+  "dependencies": {
+    "avalanche": "^3.2.5",
+    "dotenv": "^8.2.0"
+  }
+}
